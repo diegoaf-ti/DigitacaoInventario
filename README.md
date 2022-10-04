@@ -1,2 +1,3 @@
-# DigitacaoInventario
-Aplicação para digitação de inventário
+# DigitacaoBalanço
+Grupo Feirão dos Móveis Magazine
+Aplicação para digitação ddo balanço mensal
