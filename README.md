@@ -1,4 +1,4 @@
 # DigitacaoBalanço
 Grupo Feirão dos Móveis Magazine
 
-Aplicação para digitação ddo balanço mensal
+Aplicação para digitação do balanço mensal
